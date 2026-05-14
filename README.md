@@ -11,11 +11,16 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 2º período de Ciência da Computação na UNICID. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend, Análise de Dados e Segurança da Informação (OSINT).
- 
-* **Habilidades Técnicas:** Python (Pandas, Scikit-learn), Java, SQL (PostgreSQL, MySQL), Modelagem de Dados (ER) e OSINT.
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico e proatividade na resolução de problemas.
-* **Experiência/Projetos Relevantes:** Desenvolvi o ISINT, uma ferramenta de automação em Python para coleta de dados públicos, e realizei um Dossiê de Diagnóstico de Interface focado na usabilidade de grandes plataformas como Mercado Livre e Poupatempo.
+**Atualmente estou cursando o 2º período de Ciência da Computação na UNICID e venho construindo minha trajetória na área de tecnologia com foco em Desenvolvimento Backend, Análise de Dados e Segurança da Informação (OSINT).
+
+Tenho interesse em aprender como a tecnologia pode ser usada para resolver problemas do dia a dia de forma prática e eficiente. Durante meus estudos e projetos pessoais, venho desenvolvendo conhecimentos em Python, Java e SQL, além de trabalhar com bibliotecas como Pandas e Scikit-learn para análise de dados.
+
+Também possuo experiência com bancos de dados como PostgreSQL e MySQL, modelagem de dados (ER) e ferramentas de desenvolvimento como Git e Docker. Além disso, tenho contato com tecnologias web como HTML, CSS, JavaScript e React, buscando ampliar minhas habilidades tanto no backend quanto no desenvolvimento de aplicações completas.
+
+Entre os projetos que desenvolvi, destaca-se o **ISINT**, uma ferramenta criada em Python para automação de coleta de dados públicos com foco em OSINT. Também participei da elaboração de um **Dossiê de Diagnóstico de Interface**, analisando a usabilidade e experiência do usuário em plataformas como Mercado Livre e Poupatempo.
+
+Sou uma pessoa curiosa, proativa e sempre disposta a aprender coisas novas. Valorizo o trabalho em equipe, a comunicação e o pensamento crítico, buscando evoluir constantemente tanto no aspecto técnico quanto profissional.
+**
  
 ---
  
@@ -26,9 +31,6 @@ Atualmente cursando o 2º período de Ciência da Computação na UNICID. Sou ap
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 #### 🌐 Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,9 +46,7 @@ Atualmente cursando o 2º período de Ciência da Computação na UNICID. Sou ap
 
 #### 🤖 Inteligência Artificial & Ciência de Dados
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 #### ⚙️ Ferramentas & DevOps
