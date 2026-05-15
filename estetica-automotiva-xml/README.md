@@ -102,6 +102,12 @@ Com base na experiência:
 
 ---
 
+# 📄 Trabalho (PDF)
+
+👉 [Clique aqui para ver o trabalho completo](https://drive.google.com/file/d/1TRs0sZ1klxeddhhHyZqVxjBMxBoDHqrp/view?usp=sharing)
+
+---
+
 # 📌 Conclusão
 
 A atividade demonstra que diferentes LLMs interpretam instruções estruturadas de formas diferentes. Isso impacta diretamente no desenvolvimento assistido por IA, principalmente em tarefas que exigem precisão técnica como XML e geração de código Front-end.
@@ -110,4 +116,4 @@ A atividade demonstra que diferentes LLMs interpretam instruções estruturadas 
 
 # 👨‍💻 Autor
 
-Eduardo Garrido
+Ana beatriz moura torres
