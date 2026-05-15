@@ -110,5 +110,5 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | Experimento com Teachable Machine para analisar como o viés em dados de treinamento influencia decisões de IA. | [Ver Projeto](../Laboratorio-Classificacao-Visual/README.md) |
+| **Laboratório de Classificação Visual** | Experimento com Teachable Machine para analisar como o viés em dados de treinamento influencia decisões de IA. | [Ver Projeto](./Laboratorio-Classificacao-Visual/README.md) |
 | **Modelo de Classificação (Teachable Machine)** | Modelo de IA treinado para análise de viés algorítmico. | [Abrir Modelo](https://teachablemachine.withgoogle.com/models/HNAQwVhHE/) |
