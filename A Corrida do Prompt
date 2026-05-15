@@ -1,50 +1,94 @@
-# 💡 Ética e IA Generativa
+# 🏁 A Corrida do Prompt
 
-Atividade prática sobre reflexão ética no uso de Inteligência Artificial para engenharia reversa, geração de sistemas e uso de conteúdos digitais.
+Atividade prática de Engenharia de Prompt baseada em refinamento de comandos e análise crítica das respostas geradas por Inteligência Artificial.
 
 ---
 
 # 🧠 Objetivo
 
-Analisar os impactos do uso da IA na criação de softwares e discutir questões relacionadas a plágio, originalidade e direitos autorais.
+A atividade teve como objetivo desenvolver prompts mais precisos e eficientes, utilizando refinamentos sucessivos para melhorar as respostas da IA até alcançar um resultado mais próximo do esperado.
 
 ---
 
-# 📚 Reflexão 1
+# 🎯 Critérios Avaliados
 
-## Quando deixa de ser aprendizado e vira plágio?
+## 1. Precisão e Alinhamento com o Alvo
 
-A engenharia reversa assistida por IA deixa de ser uma ferramenta de aprendizado a partir do momento em que a pessoa utiliza conteúdo que não é dela para fins lucrativos.
+Foi analisado se o resultado final conseguiu representar corretamente:
 
-Ou seja, quando a cópia é usada comercialmente sem autorização do criador original.
+- estilo;
+- contexto;
+- tom;
+- detalhes técnicos solicitados.
 
----
-
-# 📚 Reflexão 2
-
-## Soluções éticas
-
-Algumas soluções para proteger a inovação sem impedir o avanço da IA:
-
-- Treinamento responsável: empresas devem informar quais dados foram usados para treinar os modelos.
-- Sistema de créditos: reconhecer autores quando a IA usar conteúdos inspirados em obras existentes.
-- Licenciamento justo: permitir o uso de conteúdos mediante autorização.
-- Identificação de conteúdo: marcar materiais produzidos por IA para garantir transparência.
+Os refinamentos ajudaram a IA a compreender melhor o objetivo da atividade.
 
 ---
 
-# 🔗 Projeto Utilizado
+## 2. Eficiência no Ciclo de Refinamento
 
-[Repositório GitHub](https://github.com/Eduardo102938/segunda/tree/9ff388fda315883e2cf4df542b8a7ac200e2a46d/remix_-moral-machine-clone%20(2)?utm_source=chatgpt.com)
+Os prompts foram ajustados estrategicamente para:
+
+- corrigir erros;
+- melhorar respostas anteriores;
+- alcançar um resultado funcional em poucas tentativas.
+
+Cada iteração foi utilizada para evoluir o resultado da IA.
+
+---
+
+## 3. Análise Crítica do Feedback
+
+Durante a atividade foi necessário identificar:
+
+- o que a IA ignorava;
+- quais instruções estavam vagas;
+- quais palavras causavam respostas incorretas.
+
+Com isso, os prompts foram ficando mais específicos e eficientes.
+
+---
+
+## 4. Integração e Engenharia de Instrução
+
+As alterações nos prompts foram feitas conectando:
+
+- o erro encontrado;
+- a nova instrução;
+- o comportamento esperado da IA.
+
+Isso permitiu melhorar gradualmente os resultados gerados.
+
+---
+
+## 5. Registro e Documentação da Evolução
+
+Todos os prompts e respostas foram registrados para acompanhar:
+
+- evolução das tentativas;
+- erros encontrados;
+- melhorias aplicadas;
+- lógica utilizada nos refinamentos.
+
+---
+
+# 📚 Aprendizados
+
+A atividade mostrou que:
+
+- prompts específicos geram melhores resultados;
+- a análise crítica é essencial;
+- refinamentos constantes melhoram a precisão da IA;
+- Engenharia de Prompt exige clareza e estratégia.
 
 ---
 
 # 📌 Conclusão
 
-A atividade mostrou que a IA facilita a criação e reprodução de sistemas, mas também levanta discussões importantes sobre ética, autoria e uso responsável da tecnologia.
+A Corrida do Prompt demonstrou a importância do refinamento contínuo na interação com Inteligências Artificiais, destacando como pequenas mudanças nas instruções influenciam diretamente na qualidade das respostas.
 
 ---
 
 # 👨‍💻 Autor
 
-Eduardo Garrido
+Ana Beatriz Moura Torres
