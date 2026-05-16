@@ -76,6 +76,14 @@ Uma abordagem de Human-in-the-loop garante que humanos participem da curadoria d
 
 ---
 
+# 🔗 Resultado do Projeto
+
+Acesse o projeto completo aqui:
+
+👉 https://drive.google.com/drive/folders/1qx9jSxS3ASfxc7ZJwKHenw2NYKnNck64?usp=sharing
+
+---
+
 # 👨‍💻 Autor
 
 Ana Beatriz Moura Torres
