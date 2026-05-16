@@ -128,3 +128,6 @@ Este projeto consiste no treinamento de um modelo de imagem utilizando o **Teach
 | :--- | :--- | :---: |
 | **Portfólio Profissional no GitHub (SMX)** | Repositório centralizador de projetos acadêmicos e técnicos, desenvolvido como vitrine profissional. O portfólio organiza atividades de engenharia de software, IA, engenharia de prompt e desenvolvimento web, demonstrando evolução técnica e aplicação prática dos conteúdos da disciplina. | [Ver Portfólio](https://github.com/mouraanabeatriz799-spec/portfolio-ana-beatriz-moura-torres) |
 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Composição Musical Assistida por IA (Gemini + Suno AI)** | Projeto de criação musical com Inteligência Artificial, atuando como produtor musical e engenheiro de prompts. Utiliza Gemini Gems para análise de estilo e geração de letras baseadas em um artista de referência, e Suno AI para produção de áudio completo. O projeto resulta em 5 músicas inéditas com processo criativo documentado e estruturado. | [Ver Projeto](https://github.com/mouraanabeatriz799-spec/portfolio-ana-beatriz-moura-torres/blob/main/Musica/1Musica.md) |
